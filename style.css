@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(218, 103, 27);
+}
+
+.blog-prc {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 1530px;
+	height: 700px;
+	border: 2px solid rgb(16, 214, 240);
+
+	font-size: 20px;
+	font-weight: bold;
+}
